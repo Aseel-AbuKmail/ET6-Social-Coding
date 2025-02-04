@@ -26,3 +26,23 @@ Apply Boolean law to simplify it.
 Interpret what the final expression means in the context of allowing or blocking a login attempt.
 
 """
+
+# Test = not (A and (B or not B)) # not A
+
+def switch(A, B):
+    match (A, B):
+        case (True, True):
+            print("The Login has failed")
+        case (True, False):
+            print("The Login has failed")
+        case (False, True):
+            print("The Login is successful")
+        case (False, False):
+            print("The Login is successful")
+
+# Properly handling boolean input
+A = input("Enter the correct login credentials (1 for correct, 0 for incorrect): ") == "1"
+B = input("Enter from a trusted device (1 for yes, 0 for no): ") == "1"
+
+switch(A, B)
+
