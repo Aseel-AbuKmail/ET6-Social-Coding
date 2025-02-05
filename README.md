@@ -22,7 +22,7 @@ This repository contains starter code and resources for Social Coding workshops 
 
 -->
 
-# 👥 Meet the Team (Avatars)
+# 👥 Meet the Team 
 
 We’re a group of passionate and diverse learners united by love for coding and problem-solving. Here's a brief introduction to our team members:
 
@@ -34,6 +34,13 @@ We’re a group of passionate and diverse learners united by love for coding and
 
 - **Muhannad🧑🏻‍💻**
 *Fun Fact:* "When I feel lost in the maze of learning, I just hit the 'code' button because nothing finds the way like programming!"
+
+- **Al-Hassen🍳**
+*Fun Fact:* "I love experimenting with new cooking techniques, always trying to add a twist to my meals!"
+
+- **Muhammet 👾**
+*Fun Fact:* "I am triplets!"
+
 
 - **Al-Hassen🍳**
 *Fun Fact:* "I love experimenting with new cooking techniques, always trying to add a twist to my meals!"
