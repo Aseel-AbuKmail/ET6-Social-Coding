@@ -1,3 +1,4 @@
+<!--
 # ET Cohort 6: Social Coding
 
 This repository contains starter code and resources for Social Coding workshops covering 1-off fun subjects like generative art, coding competitions, code reading sessions or pseudocoding.
@@ -16,4 +17,22 @@ This repository contains starter code and resources for Social Coding workshops 
 
 ---
 
+
 ![MIT Emerging Talent Logo](./.assets/emerging_talent_logo.png)
+
+-->
+
+# 👥 Meet the Team (Avatars)
+
+We’re a group of passionate and diverse learners united by love for coding and problem-solving. Here's a brief introduction to our team members:
+
+- **Aseel 🎯**
+*Fun Fact:* "I love playing Sudoku—it’s like a workout for my brain!"
+- **Maria✈️**
+*Fun Fact:* "I love traveling as much as I love food – the only difference is, one fills my passport and the other fills my stomach!"
+- **Muhannad🧑🏻‍💻**
+*Fun Fact:* "When I feel lost in the maze of learning, I just hit the 'code' button because nothing finds the way like programming!"
+- **Al-Hassen🍳**
+*Fun Fact:* "I love experimenting with new cooking techniques, always trying to add a twist to my meals!"
+- **Muhammet 👾**
+*Fun Fact:* "I am triplets!"
