@@ -40,10 +40,3 @@ We’re a group of passionate and diverse learners united by love for coding and
 
 - **Muhammet 👾**
 *Fun Fact:* "I am triplets!"
-
-
-- **Al-Hassen🍳**
-*Fun Fact:* "I love experimenting with new cooking techniques, always trying to add a twist to my meals!"
-
-- **Muhammet 👾**
-*Fun Fact:* "I am triplets!"
