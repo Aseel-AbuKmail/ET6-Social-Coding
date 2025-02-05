@@ -46,3 +46,16 @@ B = input("Enter from a trusted device (1 for yes, 0 for no): ") == "1"
 
 switch(A, B)
 
+
+# Another solution:
+passwords = ["0", "1", "2", "3"]
+def challenge1(credential):
+    pass1 = input("Enter the password: ")
+    if pass1 in passwords:
+        credential = True
+    else:
+        credential = False
+    if credential == True:
+        print("Login is successful")
+    else:
+        print("Not allowed!")
