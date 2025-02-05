@@ -28,11 +28,15 @@ We’re a group of passionate and diverse learners united by love for coding and
 
 - **Aseel 🎯**
 *Fun Fact:* "I love playing Sudoku—it’s like a workout for my brain!"
+
 - **Maria✈️**
 *Fun Fact:* "I love traveling as much as I love food – the only difference is, one fills my passport and the other fills my stomach!"
+
 - **Muhannad🧑🏻‍💻**
 *Fun Fact:* "When I feel lost in the maze of learning, I just hit the 'code' button because nothing finds the way like programming!"
+
 - **Al-Hassen🍳**
 *Fun Fact:* "I love experimenting with new cooking techniques, always trying to add a twist to my meals!"
+
 - **Muhammet 👾**
 *Fun Fact:* "I am triplets!"
