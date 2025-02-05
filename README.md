@@ -22,7 +22,7 @@ This repository contains starter code and resources for Social Coding workshops 
 
 -->
 
-# 👥 Meet the Team 
+# 👥 Meet the Team (Avatars)
 
 We’re a group of passionate and diverse learners united by love for coding and problem-solving. Here's a brief introduction to our team members:
 
